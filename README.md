@@ -1,6 +1,8 @@
 ### Hi there 👋
 <!-- 헤더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<!-- 바디 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hommefatale01@naver.com)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 풋터 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
