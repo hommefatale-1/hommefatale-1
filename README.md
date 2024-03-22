@@ -7,6 +7,10 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hommefatale01@naver.com&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=hommefatale01@naver.com&show_icons=true">
+</div>
 <!-- 풋터 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
